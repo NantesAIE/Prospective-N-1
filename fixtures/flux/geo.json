@@ -1,0 +1,15 @@
+{
+  "pays": "France",
+  "code_pays": "FR",
+  "code_pays_iso3": "FRA",
+  "ue": true,
+  "ville": "Nantes",
+  "code_postal": "44000",
+  "code_commune": "44109",
+  "departement": "Loire-Atlantique",
+  "code_departement": "44",
+  "region": "Pays de la Loire",
+  "lat": 47.2382,
+  "lon": -1.5603,
+  "population": 327734
+}

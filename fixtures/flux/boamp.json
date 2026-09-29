@@ -1,0 +1,62 @@
+[
+  {
+    "titre": "Commande publique liée au thème sur 12 mois (Loire-Atlantique)",
+    "resume": "Depuis le 2025-09-25, 22 avis BOAMP (Loire-Atlantique) mentionnent sport santé, seniors, activité physique adaptée, vieillissement actif (avis de marché : 14, résultat de marché : 8) ; acheteurs les plus actifs : VILLE DE SAINT NAZAIRE (4), Conseil départemental Loire Atlantique (3), MAIRIE DE REZE (2).",
+    "source": "BOAMP (DILA)",
+    "url": "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records?where=%28search%28%22sport+sant%C3%A9%22%29+OR+search%28%22seniors%22%29+OR+search%28%22activit%C3%A9+physique+adapt%C3%A9e%22%29+OR+search%28%22vieillissement+actif%22%29%29+AND+dateparution+%3E%3D+date%272025-09-25%27+AND+code_departement%3D%2244%22&group_by=nature_libelle&select=count%28%2A%29+as+n",
+    "date": "2026-09-25",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  },
+  {
+    "titre": "CCAS de la Ville de Saint  Herblain : Prestations de transport accompagné à la demande des seniors pour le CCAS de la Ville de Saint-Herblain",
+    "resume": "Avis de marché publié au BOAMP le 2026-05-27 par CCAS de la Ville de Saint  Herblain : « Prestations de transport accompagné à la demande des seniors pour le CCAS de la Ville de Saint-Herblain » ; catégories Transport ; marché de services ; réponse attendue avant le 2026-06-22.",
+    "source": "BOAMP (DILA)",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-51759",
+    "date": "2026-05-27",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  },
+  {
+    "titre": "VILLE DE SAINT NAZAIRE : Ateliers sport santé",
+    "resume": "Résultat de marché publié au BOAMP le 2026-09-21 par VILLE DE SAINT NAZAIRE : « Ateliers sport santé » ; catégories Prestations de services ; attribué à SNOS ENTRETIEN PHYSIQUE, ESCO44 ST NAZAIRE.",
+    "source": "BOAMP (DILA)",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-90972",
+    "date": "2026-09-21",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  },
+  {
+    "titre": "COMMUNE DE CHOLET : CONTROLE DU MOBILIER SPORTIF ET DES AIRES DE JEUX (2027-2031)",
+    "resume": "Avis de marché publié au BOAMP le 2026-08-20 par COMMUNE DE CHOLET : « CONTROLE DU MOBILIER SPORTIF ET DES AIRES DE JEUX (2027-2031) » ; catégories Equipement sportif, Mobilier ; marché de services ; réponse attendue avant le 2026-09-18.",
+    "source": "BOAMP (DILA)",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-81455",
+    "date": "2026-08-20",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Grand Port Maritime de Nantes Saint-Nazaire : Assurances couverture sociale (santé / prévoyance) pour le personnel salariés et anciens salariés (retraités, préretraités amiante et pénibilité) non cadres terrestres du GRAND PO…",
+    "resume": "Avis de marché publié au BOAMP le 2026-07-31 par Grand Port Maritime de Nantes Saint-Nazaire : « Assurances couverture sociale (santé / prévoyance) pour le personnel salariés et anciens salariés (retraités, préretraités amiante et pénibilité) non cadres terrestres du GRAND PO… » ; catégories Assurance ; marché de services ; réponse attendue avant le 2026-09-23.",
+    "source": "BOAMP (DILA)",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-76275",
+    "date": "2026-07-31",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Grand Port Maritime de Nantes Saint-Nazaire (GPMNSN) : Prestations d'assurances couverture sociale (santé et prévoyance) pour les Inscrits maritimes d'une part et pour les cadres, officiers de port, officiers de port adjoints et fonct…",
+    "resume": "Résultat de marché publié au BOAMP le 2025-12-19 par Grand Port Maritime de Nantes Saint-Nazaire (GPMNSN) : « Prestations d'assurances couverture sociale (santé et prévoyance) pour les Inscrits maritimes d'une part et pour les cadres, officiers de port, officiers de port adjoints et fonct… » ; catégories Assurance ; marché de services ; attribué à AG2R PREVOYANCE, Alternative Courtage, LAMIE MUTUELLE.",
+    "source": "BOAMP (DILA)",
+    "url": "https://www.boamp.fr/pages/avis/?q=idweb:25-139214",
+    "date": "2025-12-19",
+    "axe_presume": "P",
+    "flux_id": "boamp",
+    "niveau": "pays"
+  }
+]

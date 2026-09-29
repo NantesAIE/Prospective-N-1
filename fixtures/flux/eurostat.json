@@ -1,0 +1,42 @@
+[
+  {
+    "titre": "France : 21,9 % de 65 ans et plus en 2025",
+    "resume": "Part des 65 ans et plus (France) : 21,9 % en 2025, +3,5 points depuis 2015, contre 22,0 % pour l'UE à 27.",
+    "source": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjanind?lang=fr&geo=FR&geo=EU27_2020&indic_de=PC_Y65_MAX&indic_de=PC_Y80_MAX&sinceTimePeriod=2014",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "eurostat",
+    "niveau": "zone"
+  },
+  {
+    "titre": "France : 6,2 % de 80 ans et plus en 2025",
+    "resume": "Part des 80 ans et plus (France) : 6,2 % en 2025, +0,4 points depuis 2015, contre 6,2 % pour l'UE à 27.",
+    "source": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/demo_pjanind?lang=fr&geo=FR&geo=EU27_2020&indic_de=PC_Y65_MAX&indic_de=PC_Y80_MAX&sinceTimePeriod=2014",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "eurostat",
+    "niveau": "zone"
+  },
+  {
+    "titre": "France : +21 % de personnes de 65 ans et plus d'ici 2040",
+    "resume": "Selon les projections de référence Eurostat (EUROPOP2023), les 65 ans et plus (France) passeraient de 15,3 à 18,5 millions entre 2026 et 2040 (+21,0 %), soit 26,2 % de la population ; les 80 ans et plus atteindraient 6,7 millions.",
+    "source": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/proj_23np?lang=fr&geo=FR&projection=BSL&sex=T&unit=PER&age=TOTAL&age=Y_GE65&age=Y_GE80&time=2026&time=2040",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "eurostat",
+    "niveau": "zone"
+  },
+  {
+    "titre": "France : pratique d'une activité physique aérobie suffisante par âge (2019)",
+    "resume": "Selon l'enquête EHIS 2019, pratiquent une activité physique aérobie suffisante pour avoir un impact positif sur la santé (France) : 27,9 % des 18-64 ans (UE : 34,0 %), 25,0 % des 65-74 ans (UE : 26,6 %), 12,8 % des 75 ans et plus (UE : 16,1 %).",
+    "source": "Eurostat",
+    "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_ehis_pe9e?lang=fr&geo=FR&geo=EU27_2020&physact=MV_AERO&isced11=TOTAL&sex=T&age=Y18-64&age=Y65-74&age=Y_GE75&lastTimePeriod=1",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "eurostat",
+    "niveau": "zone"
+  }
+]

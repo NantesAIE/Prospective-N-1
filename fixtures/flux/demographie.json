@@ -1,0 +1,46 @@
+{
+  "source": "INSEE, recensement de la population 2023 (API Mélodi)",
+  "url": "https://api.insee.fr/melodi/data/DS_RP_POPULATION_PRINC?GEO=COM-44109&SEX=_T&maxResult=500",
+  "sources": [
+    {
+      "nom": "INSEE, évolution et structure de la population (DS_RP_POPULATION_PRINC)",
+      "url": "https://api.insee.fr/melodi/data/DS_RP_POPULATION_PRINC?GEO=COM-44109&SEX=_T&maxResult=500"
+    },
+    {
+      "nom": "INSEE, population selon l'âge et la PCS (DS_RP_TD_POPULATION_PCSAGESEX_COMP)",
+      "url": "https://api.insee.fr/melodi/data/DS_RP_TD_POPULATION_PCSAGESEX_COMP?GEO=COM-44109&SEX=_T&AGE=Y_GE15"
+    },
+    {
+      "nom": "INSEE, Filosofi : niveau de vie et pauvreté (DS_FILOSOFI_CC)",
+      "url": "https://api.insee.fr/melodi/data/DS_FILOSOFI_CC?GEO=COM-44109"
+    }
+  ],
+  "echelle": "commune",
+  "territoire": "Nantes (44109)",
+  "annee": "2023",
+  "population": 327734,
+  "tranches_age_pct": {
+    "0-14": 15.5,
+    "15-24": 18.8,
+    "25-39": 25.6,
+    "40-54": 17.1,
+    "55-64": 8.8,
+    "65-79": 9.7,
+    "80+": 4.6
+  },
+  "csp_15_ans_et_plus_pct": {
+    "Agriculteurs exploitants": 0.0,
+    "Artisans, commerçants, chefs d'entreprise": 2.9,
+    "Cadres et professions intellectuelles supérieures": 21.8,
+    "Professions intermédiaires": 16.1,
+    "Employés": 14.0,
+    "Ouvriers": 7.6,
+    "Retraités": 17.9,
+    "Autres personnes sans activité professionnelle": 19.7
+  },
+  "revenu": {
+    "niveau_vie_median_eur_an": 26720,
+    "annee": "2023",
+    "taux_pauvrete_60_pct": 19.1
+  }
+}

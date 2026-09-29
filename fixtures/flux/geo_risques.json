@@ -1,0 +1,42 @@
+[
+  {
+    "titre": "Nantes : 9 familles de risques recensées",
+    "resume": "Géorisques recense à Nantes 9 familles de risques (Inondation, Mouvement de terrain, Séisme, Phénomène lié à l'atmosphère, Radon, Risque industriel, Rupture de barrage, Transport de marchandises dangereuses, Engins de guerre), détaillées en 13 aléas.",
+    "source": "Géorisques (BRGM, ministère de la Transition écologique)",
+    "url": "https://georisques.gouv.fr/api/v1/gaspar/risques?code_insee=44109",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "geo_risques",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : 17 arrêtés de catastrophe naturelle",
+    "resume": "17 arrêtés CatNat concernent Nantes (14 « Inondations et/ou Coulées de Boue », 1 « Mouvement de Terrain », 1 « Tempête ») ; le plus récent, publié au JO le 2026-03-03, porte sur « Inondations et/ou Coulées de Boue » du 2026-02-08 au 2026-02-23.",
+    "source": "Géorisques (BRGM, ministère de la Transition écologique)",
+    "url": "https://georisques.gouv.fr/api/v1/gaspar/catnat?code_insee=44109&page_size=100",
+    "date": "2026-03-03",
+    "axe_presume": "E2",
+    "flux_id": "geo_risques",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : territoire à risque important d'inondation (TRI)",
+    "resume": "Nantes appartient au TRI « Nantes » (inondation, par ruissellement et coulée de boue), arrêté national du 2012-11-06.",
+    "source": "Géorisques (BRGM, ministère de la Transition écologique)",
+    "url": "https://georisques.gouv.fr/api/v1/gaspar/tri?code_insee=44109",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "geo_risques",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : sismicité et radon",
+    "resume": "Nantes est classée en zone de sismicité 3 - moderee et potentiel radon de catégorie 3 (significatif).",
+    "source": "Géorisques (BRGM, ministère de la Transition écologique)",
+    "url": "https://georisques.gouv.fr/api/v1/zonage_sismique?code_insee=44109",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "geo_risques",
+    "niveau": "local"
+  }
+]

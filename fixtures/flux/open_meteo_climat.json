@@ -1,0 +1,42 @@
+[
+  {
+    "titre": "Nantes : température maximale moyenne +1,1 °C d'ici 2040",
+    "resume": "La température maximale quotidienne moyenne passerait de 16,3 °C à 17,4 °C entre 2015-2024 et 2035-2044 (moyenne de 3 modèles CMIP6).",
+    "source": "Open-Meteo Climate API (modèles CMIP6)",
+    "url": "https://climate-api.open-meteo.com/v1/climate?latitude=47.2382&longitude=-1.5603&start_date=2015-01-01&end_date=2044-12-31&models=EC_Earth3P_HR%2CMPI_ESM1_2_XR%2CMRI_AGCM3_2_S&daily=temperature_2m_max%2Cprecipitation_sum",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "open_meteo_climat",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : 22,1 jours par an au-dessus de 30 °C vers 2040",
+    "resume": "Le nombre moyen de jours à plus de 30 °C passerait de 11,8 à 22,1 par an entre 2015-2024 et 2035-2044 (moyenne de 3 modèles CMIP6).",
+    "source": "Open-Meteo Climate API (modèles CMIP6)",
+    "url": "https://climate-api.open-meteo.com/v1/climate?latitude=47.2382&longitude=-1.5603&start_date=2015-01-01&end_date=2044-12-31&models=EC_Earth3P_HR%2CMPI_ESM1_2_XR%2CMRI_AGCM3_2_S&daily=temperature_2m_max%2Cprecipitation_sum",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "open_meteo_climat",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : cumul annuel de pluie -11,7 % d'ici 2040",
+    "resume": "Les précipitations annuelles passeraient de 723 mm à 638 mm entre 2015-2024 et 2035-2044 (moyenne de 3 modèles CMIP6).",
+    "source": "Open-Meteo Climate API (modèles CMIP6)",
+    "url": "https://climate-api.open-meteo.com/v1/climate?latitude=47.2382&longitude=-1.5603&start_date=2015-01-01&end_date=2044-12-31&models=EC_Earth3P_HR%2CMPI_ESM1_2_XR%2CMRI_AGCM3_2_S&daily=temperature_2m_max%2Cprecipitation_sum",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "open_meteo_climat",
+    "niveau": "local"
+  },
+  {
+    "titre": "Nantes : pluie estivale -15,1 % d'ici 2040",
+    "resume": "Les précipitations de juin à août passeraient de 117 mm à 100 mm entre 2015-2024 et 2035-2044 (moyenne de 3 modèles CMIP6).",
+    "source": "Open-Meteo Climate API (modèles CMIP6)",
+    "url": "https://climate-api.open-meteo.com/v1/climate?latitude=47.2382&longitude=-1.5603&start_date=2015-01-01&end_date=2044-12-31&models=EC_Earth3P_HR%2CMPI_ESM1_2_XR%2CMRI_AGCM3_2_S&daily=temperature_2m_max%2Cprecipitation_sum",
+    "date": "2026-09-25",
+    "axe_presume": "E2",
+    "flux_id": "open_meteo_climat",
+    "niveau": "local"
+  }
+]

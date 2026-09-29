@@ -1,0 +1,112 @@
+[
+  {
+    "titre": "Vie des entreprises du secteur sur 12 mois (Loire-Atlantique)",
+    "resume": "Depuis le 2025-09-25, les annonces BODACC (Loire-Atlantique) liées à sport santé, seniors, activité physique adaptée, vieillissement actif comptent : créations : 19, dépôts des comptes : 7, modifications diverses : 5, radiations : 3, procédures collectives : 2, ventes et cessions : 2, immatriculations : 1.",
+    "source": "BODACC (DILA)",
+    "url": "https://bodacc-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/annonces-commerciales/records?where=%28search%28%22sport+sant%C3%A9%22%29+OR+search%28%22seniors%22%29+OR+search%28%22activit%C3%A9+physique+adapt%C3%A9e%22%29+OR+search%28%22vieillissement+actif%22%29%29+AND+dateparution+%3E%3D+date%272025-09-25%27+AND+numerodepartement%3D%2244%22&group_by=familleavis_lib&select=count%28%2A%29+as+n",
+    "date": "2026-09-25",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : MOUV'LOIRE (Vair-sur-Loire)",
+    "resume": "Création publiée au BODACC le 2025-11-09 : MOUV'LOIRE à Vair-sur-Loire, activité « Organisation et coordination du dispositif Maison Sport Santé , enseignement et encadrement des activités physiques et sportives adaptées et à titre accessoire… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20250216366",
+    "date": "2025-11-09",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Procédure collective : VISTA SANTE CITY (Saint-Herblain)",
+    "resume": "Procédure collective publiée au BODACC le 2026-01-04 : VISTA SANTE CITY à Saint-Herblain, Dépôt de l'état des créances, activité « La conception, détention, location, sous-location de locaux à destination des professionnels médicaux et paramédicaux et exploitation d'immeubles non résidenti… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600013428",
+    "date": "2026-01-04",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : HYAGO (La Chapelle-sur-Erdre)",
+    "resume": "Création publiée au BODACC le 2026-07-08 : HYAGO à La Chapelle-sur-Erdre, activité « L'activité de loueur en meublé, résidences gérées (Ehpad, résidences séniors...) L'acquisition, la vente, l'échange, l'apport, la propriété, la mise en valeur,… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260128419",
+    "date": "2026-07-08",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Vente ou cession : FF 2, ATHLETIC PRO (La Chapelle-sur-Erdre)",
+    "resume": "Vente ou cession publiée au BODACC le 2026-04-26 : FF 2, ATHLETIC PRO à La Chapelle-sur-Erdre, Achat d'un fonds libéral, activité « L'exploitation d'une salle de sport ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260080941",
+    "date": "2026-04-26",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : REZE SANTE SPORT (Rezé)",
+    "resume": "Création publiée au BODACC le 2026-03-08 : REZE SANTE SPORT à Rezé, activité « Mise en commun de moyens utiles à l'exercice de l'activité professionnelle des associés ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260046734",
+    "date": "2026-03-08",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : La Box du Coin (Pontchâteau)",
+    "resume": "Création publiée au BODACC le 2026-02-12 : La Box du Coin à Pontchâteau, activité « L'exploitation d'une salle de sport, de Fitness, de musculation, de cours collectifs et plus généralement de toutes activités liées à la pratique sportive et a… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260029777",
+    "date": "2026-02-12",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : DB FIT (Saint-Herblain)",
+    "resume": "Création publiée au BODACC le 2026-02-24 : DB FIT à Saint-Herblain, activité « La création, la gestion et l'exploitation de centre(S) du bien-être proposant à une clientèle de particuliers diverses prestations dans les domaines de la remi… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A202600371298",
+    "date": "2026-02-24",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : Seu, Florence, Cremet (Monnières)",
+    "resume": "Création publiée au BODACC le 2026-02-18 : Seu, Florence, Cremet à Monnières, activité « Commerce de détail et de gros, principalement en ligne, de produits divers neufs incluant des articles de bien-être, santé, hygiène, accessoires, produits tech… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260033466",
+    "date": "2026-02-18",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Vente ou cession : ETABLISSEMENT PUBLIC METROPOLE NANTES METROPOLE, EXPONANTES (Nantes)",
+    "resume": "Vente ou cession publiée au BODACC le 2026-01-13 : ETABLISSEMENT PUBLIC METROPOLE NANTES METROPOLE, EXPONANTES à Nantes, Achat au prix stipulé de 4700000,00 euros, activité « La branche de fonds de commerce correspondant à l'organisation des salons Serbotel, Industrie Grand Ouest, Foire internationale de Nantes, Art to Play, Forum d… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20260007861",
+    "date": "2026-01-13",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  },
+  {
+    "titre": "Création : MAIGNAN, Hervé Margel Georges (Saint-Nazaire)",
+    "resume": "Création publiée au BODACC le 2025-11-05 : MAIGNAN, Hervé Margel Georges à Saint-Nazaire, activité « Vente et distribution de solutions de maintien à domicile pour seniors : Téléassistance, douches sécurisées, barres d'appui, sièges de bain, volets motorisés e… ».",
+    "source": "BODACC (DILA)",
+    "url": "https://www.bodacc.fr/pages/annonces-commerciales-detail/?q.id=id:A20250213995",
+    "date": "2025-11-05",
+    "axe_presume": "E1",
+    "flux_id": "bodacc",
+    "niveau": "pays"
+  }
+]

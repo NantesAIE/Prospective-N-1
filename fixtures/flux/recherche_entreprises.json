@@ -1,0 +1,122 @@
+[
+  {
+    "titre": "Densité concurrentielle au code postal 44000 (Nantes)",
+    "resume": "1 238 entreprises actives ont un établissement au code postal 44000 sur les codes NAF 93.13Z, 93.19Z, 85.51Z, 86.90E.",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?etat_administratif=A&activite_principale=93.13Z%2C93.19Z%2C85.51Z%2C86.90E&per_page=10&code_postal=44000",
+    "date": "2026-09-25",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "KENKO SPORT-SANTE (NANTES)",
+    "resume": "Acteur présent à NANTES : activité NAF 93.13Z, entreprise créée le 2019-04-23, 1 ou 2 salariés, catégorie PME, 2 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/850658626",
+    "date": "2019-04-23",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "LOUISIANE JAUNASSE (JAUNASSE) (READAPTATION EN ACTIVITE PHYSIQUE ADAPTEE) (NORT-SUR-ERDRE)",
+    "resume": "Acteur présent à NORT-SUR-ERDRE : activité NAF 86.90E, entreprise créée le 2024-06-14, non employeuse, 1 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931787071",
+    "date": "2024-06-14",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "BASIC-FIT FRANCE (BASIC FIT FRANCE) (NANTES)",
+    "resume": "Acteur présent à NANTES : activité NAF 93.13Z, entreprise créée le 2013-10-23, établissement local ouvert le 2016-09-10, 2 000 à 4 999 salariés, catégorie ETI, 916 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798233011",
+    "date": "2016-09-10",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "SANTE SPORT (SAINTE-PAZANNE)",
+    "resume": "Acteur présent à SAINTE-PAZANNE : activité NAF 93.12Z, entreprise créée le 2022-12-12, non employeuse, 1 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922746300",
+    "date": "2022-12-12",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "ATLANTIQUE SENIOR (SAINT-NAZAIRE)",
+    "resume": "Acteur présent à SAINT-NAZAIRE : activité NAF 88.10A, entreprise créée le 2014-02-06, établissement local ouvert le 2018-02-14, 50 à 99 salariés, catégorie PME, 2 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/800454738",
+    "date": "2018-02-14",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "ROMANE GUYOT (ENSEIGNANTE EN ACTIVITE PHYSIQUE ADAPTEE) (CARQUEFOU)",
+    "resume": "Acteur présent à CARQUEFOU : activité NAF 85.51Z, entreprise créée le 2024-11-11, non employeuse, 1 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/935252668",
+    "date": "2024-11-11",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "UCPA SPORT VACANCES (UCPA) (NANTES)",
+    "resume": "Acteur présent à NANTES : activité NAF 93.19Z, établissement local ouvert le 1988-12-28, 1 000 à 1 999 salariés, catégorie ETI, 100 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775682040",
+    "date": "1988-12-28",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "GPC SPORT SANTE (GPC SPORT SANTE) (G.P.C) (NANTES)",
+    "resume": "Acteur présent à NANTES : activité NAF 85.51Z, entreprise créée le 2018-10-01, établissement local ouvert le 2020-10-01, non employeuse, catégorie PME, 1 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842805772",
+    "date": "2020-10-01",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "LE SENIOR 44 (NOS AIMES) (LA BAULE-ESCOUBLAC)",
+    "resume": "Acteur présent à LA BAULE-ESCOUBLAC : activité NAF 88.10A, entreprise créée le 2021-03-29, établissement local ouvert le 2024-08-01, 3 à 5 salariés, catégorie PME, 2 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897943122",
+    "date": "2024-08-01",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "JUNIOR KID (MELOCAD-SPESUP-ACADEOS-SHIVA-ACADOMIA) (NANTES)",
+    "resume": "Acteur présent à NANTES : activité NAF 85.59B, entreprise créée le 2005-03-01, établissement local ouvert le 2025-07-01, 20 à 49 salariés, catégorie ETI, 95 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480648179",
+    "date": "2025-07-01",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  },
+  {
+    "titre": "ASSOCIATION SPORTS ET SANTE (VAY)",
+    "resume": "Acteur présent à VAY : activité NAF 93.12Z, entreprise créée le 2018-06-04, non employeuse, catégorie PME, 1 établissement(s) ouvert(s).",
+    "source": "Annuaire des entreprises (API Recherche d'entreprises)",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/842114472",
+    "date": "2018-06-04",
+    "axe_presume": "E1",
+    "flux_id": "recherche_entreprises",
+    "niveau": "local"
+  }
+]

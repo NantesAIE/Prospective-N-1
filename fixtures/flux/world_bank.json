@@ -1,0 +1,62 @@
+[
+  {
+    "titre": "France : part des 65 ans et plus à 22,5 % en 2025",
+    "resume": "Part des 65 ans et plus (France) : 22,5 % en 2025, +3,7 points en 10 ans (18,9 en 2015).",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.65UP.TO.ZS?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  },
+  {
+    "titre": "France : espérance de vie à la naissance à 83,0 ans en 2024",
+    "resume": "Espérance de vie à la naissance (France) : 83,0 ans en 2024, +0,3 ans en 10 ans (82,7 en 2014).",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  },
+  {
+    "titre": "France : dépenses courantes de santé à 11,5 % du PIB en 2024",
+    "resume": "Dépenses courantes de santé (France) : 11,5 % du PIB en 2024, +0,0 points en 10 ans (11,6 en 2014).",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/SH.XPD.CHEX.GD.ZS?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  },
+  {
+    "titre": "France : taux d'urbanisation à 78,8 % en 2025",
+    "resume": "Taux d'urbanisation (France) : 78,8 % en 2025, +1,1 points en 10 ans (77,8 en 2015).",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/SP.URB.TOTL.IN.ZS?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "S",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  },
+  {
+    "titre": "France : croissance du PIB réel à 0,8 % en 2025",
+    "resume": "Croissance du PIB réel (France) : 0,8 % en 2025, moyenne de 1,2 % par an sur 10 ans.",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "E1",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  },
+  {
+    "titre": "France : taux de chômage (estimation OIT) à 7,5 % en 2025",
+    "resume": "Taux de chômage (estimation OIT) (France) : 7,5 % en 2025, -2,8 points en 10 ans (10,4 en 2015).",
+    "source": "Banque mondiale, World Development Indicators",
+    "url": "https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&date=2013:2026",
+    "date": "2026-09-25",
+    "axe_presume": "E1",
+    "flux_id": "world_bank",
+    "niveau": "monde"
+  }
+]

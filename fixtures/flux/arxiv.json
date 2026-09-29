@@ -1,0 +1,122 @@
+[
+  {
+    "titre": "BlockTheFall: Wearable Device-based Fall Detection Framework Powered by Machine Learning and Blockchain for Elderly Care",
+    "resume": "Prépublication arXiv du 2023-06-10 (Context-Aware Activity Recognition Systems, 6 auteur(s)). Falls among the elderly are a major health concern, frequently resulting in serious injuries and a reduced quality of life.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2306.06452",
+    "date": "2023-06-10",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Predicting Early Dropouts of an Active and Healthy Ageing App",
+    "resume": "Prépublication arXiv du 2023-08-01 (Mobile Health and mHealth Applications, 5 auteur(s)). In this work, we present a machine learning approach for predicting early dropouts of an active and healthy ageing app.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2308.00539",
+    "date": "2023-08-01",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "An Energy Efficient Wearable for Monitoring Elderly People Health",
+    "resume": "Prépublication arXiv du 2026-08-26 (Context-Aware Activity Recognition Systems, 6 auteur(s)). The aged population is exposed to risk situations, like falls, sudden changes in vital signs, and faints.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "https://arxiv.org/abs/2609.22168",
+    "date": "2026-08-26",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Stress Estimation in Elderly Oncology Patients Using Visual Wearable Representations and Multi-Instance Learning",
+    "resume": "Prépublication arXiv du 2026-04-08 (Cancer survivorship and care, 13 auteur(s)). Psychological stress is clinically relevant in cardio-oncology, yet it is typically assessed only through patient-reported outcome measures (PROMs) and is rarely integrated into continuous cardiotoxicity surveillance.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "https://doi.org/10.48550/arxiv.2604.06990",
+    "date": "2026-04-08",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Frailty Estimation in Elderly Oncology Patients Using Multimodal Wearable Data and Multi-Instance Learning",
+    "resume": "Prépublication arXiv du 2026-04-08 (Frailty in Older Adults, 13 auteur(s)). Frailty and functional decline strongly influence treatment tolerance and outcomes in older patients with cancer, yet assessment is typically limited to infrequent clinic visits.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2604.06985",
+    "date": "2026-04-08",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "A Simplified Model for the Battery Ageing Potential Under Highly Rippled Load for Battery Management and Active Degradation Control",
+    "resume": "Prépublication arXiv du 2022-09-19 (Advanced Battery Technologies Research, 4 auteur(s)). Whereas in typical standardized tests batteries are almost exclusively loaded with constant current or relatively slowly changing cycles, real applications involve rapid load ripple, which do not contribute to the net e…",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2209.08836",
+    "date": "2022-09-19",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Fall Detection from Audios with Audio Transformers",
+    "resume": "Prépublication arXiv du 2022-08-23 (Context-Aware Activity Recognition Systems, 3 auteur(s)). Fall detection for the elderly is a well-researched problem with several proposed solutions, including wearable and non-wearable techniques.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2208.10659",
+    "date": "2022-08-23",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Real-Time Elderly Monitoring for Senior Safety by Lightweight Human Action Recognition",
+    "resume": "Prépublication arXiv du 2022-07-21 (Context-Aware Activity Recognition Systems, 2 auteur(s)). With an increasing number of elders living alone, care-giving from a distance becomes a compelling need, particularly for safety.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2207.10519",
+    "date": "2022-07-21",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Contrastive Deep Learning Reveals Age Biomarkers in Histopathological Skin Biopsies",
+    "resume": "Prépublication arXiv du 2024-11-25 (Cutaneous Melanoma Detection and Management, 8 auteur(s)). As global life expectancy increases, so does the burden of chronic diseases, yet individuals exhibit considerable variability in the rate at which they age.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "https://arxiv.org/abs/2411.16956",
+    "date": "2024-11-25",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors",
+    "resume": "Prépublication arXiv du 2024-10-26 (Context-Aware Activity Recognition Systems, 5 auteur(s)). Visual Question-Answering, a technology that generates textual responses from an image and natural language question, has progressed significantly.",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2410.20034",
+    "date": "2024-10-26",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Results of the 2023 Census of Beat Saber Users: Virtual Reality Gaming Population Insights and Factors Affecting Virtual Reality E-Sports Performance",
+    "resume": "Prépublication arXiv du 2023-05-23 (Sports Analytics and Performance, 3 auteur(s)). The emergence of affordable standalone virtual reality (VR) devices has allowed VR technology to reach mass-market adoption in recent years, driven primarily by the popularity of VR gaming applications such as Beat Sabe…",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2305.14320",
+    "date": "2023-05-23",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  },
+  {
+    "titre": "Degradation model of high-nickel positive electrodes: Effects of loss of active material and cyclable lithium on capacity fade",
+    "resume": "Prépublication arXiv du 2022-04-28 (Advancements in Battery Materials, 3 auteur(s)). Nickel-rich layered oxides have been widely used as positive electrode materials for high-energy-density lithium-ion batteries, but their degradation has severely affected cell performance, in particular at a high volta…",
+    "source": "arXiv (via OpenAlex)",
+    "url": "http://arxiv.org/abs/2204.13364",
+    "date": "2022-04-28",
+    "axe_presume": "T",
+    "flux_id": "arxiv",
+    "niveau": "monde"
+  }
+]

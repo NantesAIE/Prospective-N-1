@@ -1,0 +1,40 @@
+[project]
+name = "prospective"
+version = "0.1.0"
+description = "Hack The Vibe : application de prospective business assistée par IA (back-end)"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.141.1",
+    "httpx>=0.28.1",
+    "keyring>=25.7.0",
+    "openai>=3.19.2",
+    "pydantic>=2.13.5",
+    "pydantic-settings>=2.15.0",
+    "pypdf>=6.19.0",
+    "python-slugify>=9.1.1",
+    "uvicorn[standard]>=0.54.0",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.12,<0.13.0"]
+build-backend = "uv_build"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "pytest-asyncio>=1.4.0",
+    "ruff>=0.16.9",
+]
+
+[project.scripts]
+serveur = "prospective.main:main"
+verifier-passerelle = "prospective.verifier_passerelle:main"
+enregistrer-cle = "prospective.coffre:main"
